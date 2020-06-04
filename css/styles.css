@@ -149,6 +149,8 @@ body {
     padding-right: 15px; }
   body .social-img {
     padding-right: 15px; }
+  body .iphone {
+    margin-bottom: -20px; }
   body .row {
     background: white;
     padding-left: 68px;
@@ -178,7 +180,8 @@ body {
       background-image: url(../images/cliffs.png);
       background-repeat: no-repeat;
       background-size: cover;
-      background-position: center; }
+      background-position: center;
+      padding-bottom: 100px; }
     body .row.footer-1 {
       padding-top: 30px;
       padding-bottom: 80px; }
